@@ -26,20 +26,20 @@ html p {
   padding-top: 10px; }
 
 header .bg-rojo {
-  background-color: #2d0a79; }
+  background-color: #b01e37; }
 
 header .btn-rojo {
   color: #ffff;
-  background-color: #2d0a79;
-  border-color: #2d0a79; }
+  background-color: #b01e37;
+  border-color: #b01e37; }
 
 header .btn-warning {
-  background-color: #2d0a79;
+  background-color: #b01e37;
   color: white; }
 
 header .btn-warning:hover {
   background-color: white;
-  color: #2d0a79; }
+  color: #b01e37; }
 
 header .btn-br {
   border-radius: 0px; }
@@ -88,7 +88,7 @@ header .carousel-efecto img {
     padding: 0 0.2rem;
     max-width: 100%; }
   .container-tarjeta .tarjeta-header {
-    background-color: #2d0a79;
+    background-color: #b01e37;
     padding: 1.5rem;
     color: #ffff;
     text-align: center;
